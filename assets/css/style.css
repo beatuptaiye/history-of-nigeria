@@ -25,6 +25,20 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+#headsh {
+    position: relative;
+}
+#intro {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+  }
+  
+  #firstp {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+  }
 section {
     padding: 20px;
 }
